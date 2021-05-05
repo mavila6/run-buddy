@@ -35,6 +35,16 @@ header a {
     font-weight: lighter;
     font-size: 22px;
   }
+
+  form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+  }
   footer {
     background: #fce138;
     width: 100%;
@@ -81,15 +91,7 @@ header a {
   .hero-form p {
     margin: 5px 0 15px 0;
   }
-  .form-input {
-    border: 1px solid #024e76;
-    display: block;
-    padding: 7px 15px;
-    font-size: 16px;
-    color: #024e76;
-    width: 100%;
-    margin-bottom: 15px;
-  }
+  
   .hero-form label {
     margin: 0 5px;
   }
